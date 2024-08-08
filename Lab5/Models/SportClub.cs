@@ -20,5 +20,6 @@ namespace Lab5.Models
         public decimal Fee { get; set; }
 
         public ICollection<Subscription> Subscriptions { get; set; }
+        public ICollection<News> News { get; set; }
     }
 }

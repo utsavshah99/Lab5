@@ -1,0 +1,36 @@
+﻿@model Lab5.Models.ViewModels.FanSubscriptionViewModel
+
+@{
+    ViewData["Title"] = "Edit Subscriptions";
+}
+
+<h1>Edit Subscriptions for @Model.Fan.FirstName @Model.Fan.LastName</h1>
+
+<form asp-action="UpdateSubscriptions" method="post">
+    <input type="hidden" name="fanId" value="@Model.Fan.Id" />
+
+    <div class="form-group">
+        <label for="subscriptions">Subscriptions</label>
+        <div>
+            @foreach (var subscription in Model.Subscriptions)
+            {
+                <div>
+                    <input type="checkbox"
+                           name="subscriptions"
+                           value="@subscription.SportClubId"
+                    @(subscription.IsMember ? "checked" : "") />
+                    @subscription.Title
+                </div>
+            }
+           @*  <input type="hidden" name="fanId" value="@Model.Fan.Id" />
+            <input type="checkbox" name="subscriptions" value="1" /> Club 1<br />
+            <input type="checkbox" name="subscriptions" value="2" /> Club 2<br />
+            <input type="checkbox" name="subscriptions" value="3" /> Club 3<br />
+            <button type="submit">Save Changes</button> *@
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+    <a asp-action="Index">Back to List</a>
+</form>
+

@@ -29,5 +29,8 @@ namespace Lab5.Models
                 return LastName + ", " + FirstName;
             }
         }
+
+        //Navigation Property
+        public ICollection<Subscription> Subscriptions { get; set; }
     }
 }

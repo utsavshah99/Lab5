@@ -21,7 +21,14 @@ namespace Lab5.Controllers
         // GET: SportClub
         public async Task<IActionResult> Index()
         {
-            return View(await _context.SportClubs.ToListAsync());
+            try
+            {
+                return View(await _context.SportClubs.ToListAsync());
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Internal server error");
+            }
         }
 
         // GET: SportClub/Details/5
@@ -32,14 +39,22 @@ namespace Lab5.Controllers
                 return NotFound();
             }
 
-            var sportClub = await _context.SportClubs
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (sportClub == null)
+            try
             {
-                return NotFound();
-            }
+                SportClub sportClub = await _context.SportClubs
+                    .FirstOrDefaultAsync(m => m.Id == id);
 
-            return View(sportClub);
+                if (sportClub == null)
+                {
+                    return NotFound();
+                }
+
+                return View(sportClub);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Internal server error");
+            }
         }
 
         // GET: SportClub/Create
@@ -55,9 +70,16 @@ namespace Lab5.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Add(sportClub);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                try
+                {
+                    _context.Add(sportClub);
+                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
+                }
+                catch (Exception ex)
+                {
+                    ModelState.AddModelError("", "Unable to create sport club. Please try again later.");
+                }
             }
             return View(sportClub);
         }
@@ -70,12 +92,19 @@ namespace Lab5.Controllers
                 return NotFound();
             }
 
-            var sportClub = await _context.SportClubs.FindAsync(id);
-            if (sportClub == null)
+            try
             {
-                return NotFound();
+                SportClub sportClub = await _context.SportClubs.FindAsync(id);
+                if (sportClub == null)
+                {
+                    return NotFound();
+                }
+                return View(sportClub);
             }
-            return View(sportClub);
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Internal server error");
+            }
         }
 
         // POST: SportClub/Edit/5
@@ -94,6 +123,7 @@ namespace Lab5.Controllers
                 {
                     _context.Update(sportClub);
                     await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -106,7 +136,10 @@ namespace Lab5.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                catch (Exception ex)
+                {
+                    ModelState.AddModelError("", "Unable to update sport club. Please try again later.");
+                }
             }
             return View(sportClub);
         }
@@ -119,14 +152,31 @@ namespace Lab5.Controllers
                 return NotFound();
             }
 
-            var sportClub = await _context.SportClubs
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (sportClub == null)
+            try
             {
-                return NotFound();
-            }
+                // Check if there are any news items associated with the sport club
+                bool news = await _context.News.AnyAsync(n => n.SportClubId == id);
 
-            return View(sportClub);
+                if (news)
+                {
+                    TempData["ErrorMessage"] = "Cannot delete this SportClub because it has news items. Please delete the news items first.";
+                    return RedirectToAction(nameof(Index));
+                }
+
+                SportClub sportClub = await _context.SportClubs
+                    .FirstOrDefaultAsync(m => m.Id == id);
+
+                if (sportClub == null)
+                {
+                    return NotFound();
+                }
+
+                return View(sportClub);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Internal server error");
+            }
         }
 
         // POST: SportClub/Delete/5
@@ -134,10 +184,24 @@ namespace Lab5.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(string id)
         {
-            var sportClub = await _context.SportClubs.FindAsync(id);
-            _context.SportClubs.Remove(sportClub);
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            try
+            {
+                SportClub sportClub = await _context.SportClubs.FindAsync(id);
+                
+
+                if (sportClub != null)
+                {
+                    _context.SportClubs.Remove(sportClub);
+                    await _context.SaveChangesAsync();
+                }
+
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", "Unable to delete sport club. Please try again later.");
+                return View();
+            }
         }
 
         private bool SportClubExists(string id)

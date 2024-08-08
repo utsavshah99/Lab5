@@ -1,0 +1,48 @@
+﻿@model Lab5.Models.ViewModels.NewsViewModel
+
+@{
+    ViewData["Title"] = "News";
+}
+
+<style>
+    .news-card {
+        height: 300px;
+        overflow: hidden;
+    }
+
+    .news-image {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .text-wrap {
+        word-wrap: break-word;
+    }
+</style>
+
+<div class="container">
+    <h1>News for @Model.SportClub.Title</h1>
+
+    <p>
+        <a asp-action="Create" asp-route-id="@Model.SportClub.Id" class="btn btn-primary">Add News</a>
+    </p>
+
+    <div class="row">
+        @foreach (var item in Model.News)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 news-card">
+                    <img src="@item.ImageUrl" class="card-img-top news-image" alt="@item.Title" />
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Title</h5>
+                        <p class="card-text text-wrap">@item.Description</p>
+                        <form asp-action="Delete" asp-route-id="@item.Id" method="post">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

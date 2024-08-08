@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Lab5.csproj": {}
+    "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Lab5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Lab5.csproj": {
+    "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Lab5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Lab5.csproj",
+        "projectUniqueName": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Lab5.csproj",
         "projectName": "Lab5",
-        "projectPath": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Lab5.csproj",
-        "packagesPath": "C:\\Users\\utssa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\obj\\",
+        "projectPath": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Lab5.csproj",
+        "packagesPath": "C:\\Users\\kachh\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\utssa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kachh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.3, )"
             }
           },
           "imports": [
