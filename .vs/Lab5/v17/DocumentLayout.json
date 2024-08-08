@@ -1,94 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\utssa\\source\\repos\\Lab5\\",
+  "WorkspaceRootPath": "D:\\.NET\\aaaaaa2222222222\\Lab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|d:\\.net\\aaaaaa2222222222\\lab5\\lab5\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\views\\sportclub\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\sportclub\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|D:\\.NET\\aaaaaa2222222222\\Lab5\\lab5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\views\\fan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\fan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:Lab5\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|D:\\.NET\\aaaaaa2222222222\\Lab5\\lab5\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|D:\\.NET\\aaaaaa2222222222\\Lab5\\lab5\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|D:\\.NET\\aaaaaa2222222222\\Lab5\\lab5\\views\\fan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\fan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|D:\\.NET\\aaaaaa2222222222\\Lab5\\lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|D:\\.NET\\aaaaaa2222222222\\Lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|D:\\.NET\\aaaaaa2222222222\\Lab5\\lab5\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\models\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\models\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\controllers\\sportclubscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\controllers\\sportclubscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\data\\sportsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\data\\sportsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\views\\sportclub\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\sportclub\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\models\\viewmodels\\newsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\models\\viewmodels\\newsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\views\\sportclub\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\sportclub\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\views\\sportclub\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\sportclub\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|c:\\users\\utssa\\source\\repos\\lab5\\lab5\\controllers\\fancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D49C27-8AF7-41E6-B50D-EB2BEFAD9AFF}|Lab5\\Lab5.csproj|solutionrelative:lab5\\controllers\\fancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,277 +46,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\SportClub\\Create.cshtml",
-              "RelativeDocumentMoniker": "Lab5\\Views\\SportClub\\Create.cshtml",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\SportClub\\Create.cshtml",
-              "RelativeToolTip": "Lab5\\Views\\SportClub\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T22:26:21.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\SportClub\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Lab5\\Views\\SportClub\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\SportClub\\Delete.cshtml",
-              "RelativeToolTip": "Lab5\\Views\\SportClub\\Delete.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T22:26:19.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\SportClub\\Details.cshtml",
-              "RelativeDocumentMoniker": "Lab5\\Views\\SportClub\\Details.cshtml",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\SportClub\\Details.cshtml",
-              "RelativeToolTip": "Lab5\\Views\\SportClub\\Details.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T22:26:11.091Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\appsettings.json",
-              "RelativeDocumentMoniker": "Lab5\\appsettings.json",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\appsettings.json",
-              "RelativeToolTip": "Lab5\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-08T22:43:34.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\Fan\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lab5\\Views\\Fan\\Index.cshtml",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\Fan\\Index.cshtml",
-              "RelativeToolTip": "Lab5\\Views\\Fan\\Index.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T22:37:53.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FanController.cs",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Controllers\\FanController.cs",
-              "RelativeDocumentMoniker": "Lab5\\Controllers\\FanController.cs",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Controllers\\FanController.cs",
-              "RelativeToolTip": "Lab5\\Controllers\\FanController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T22:37:46.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lab5\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Lab5\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T22:17:05.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "NewsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Models\\ViewModels\\NewsViewModel.cs",
-              "RelativeDocumentMoniker": "Lab5\\Models\\ViewModels\\NewsViewModel.cs",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Models\\ViewModels\\NewsViewModel.cs",
-              "RelativeToolTip": "Lab5\\Models\\ViewModels\\NewsViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T21:55:15.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\SportClub\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lab5\\Views\\SportClub\\Index.cshtml",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\SportClub\\Index.cshtml",
-              "RelativeToolTip": "Lab5\\Views\\SportClub\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T21:52:27.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SportClubsController.cs",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Controllers\\SportClubsController.cs",
-              "RelativeDocumentMoniker": "Lab5\\Controllers\\SportClubsController.cs",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Controllers\\SportClubsController.cs",
-              "RelativeToolTip": "Lab5\\Controllers\\SportClubsController.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAA9wBkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T21:36:51.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SportsDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Data\\SportsDbContext.cs",
-              "RelativeDocumentMoniker": "Lab5\\Data\\SportsDbContext.cs",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Data\\SportsDbContext.cs",
-              "RelativeToolTip": "Lab5\\Data\\SportsDbContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:34:50.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Subscription.cs",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Models\\Subscription.cs",
-              "RelativeDocumentMoniker": "Lab5\\Models\\Subscription.cs",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Models\\Subscription.cs",
-              "RelativeToolTip": "Lab5\\Models\\Subscription.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:32:10.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Fan.cs",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Models\\Fan.cs",
-              "RelativeDocumentMoniker": "Lab5\\Models\\Fan.cs",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Models\\Fan.cs",
-              "RelativeToolTip": "Lab5\\Models\\Fan.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAA5wAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:26:38.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Lab5\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Lab5\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T20:05:09.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Lab5\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Lab5\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-08T19:58:00.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Lab5\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Lab5\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T19:49:27.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Lab5\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Lab5\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T19:37:01.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Lab5\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Lab5\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T19:31:12.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Lab5\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Lab5\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T19:29:26.847Z"
+              "WhenOpened": "2024-08-07T20:32:46.043Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Lab5\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\appsettings.Development.json",
-              "RelativeToolTip": "Lab5\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-08T19:10:38.024Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T20:14:12.905Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Lab5\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "Lab5\\Data\\DbInitializer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABCAAAA",
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\.gitignore",
+              "RelativeDocumentMoniker": "Lab5\\.gitignore",
+              "ToolTip": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\.gitignore",
+              "RelativeToolTip": "Lab5\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-06T20:13:48.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Lab5\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Lab5\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:40:07.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T19:54:33.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Views\\Fan\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab5\\Views\\Fan\\Create.cshtml",
+              "ToolTip": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Views\\Fan\\Create.cshtml",
+              "RelativeToolTip": "Lab5\\Views\\Fan\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T19:53:27.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab5\\appsettings.json",
+              "ToolTip": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\appsettings.json",
+              "RelativeToolTip": "Lab5\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T19:47:55.952Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Program.cs",
-              "RelativeDocumentMoniker": "Lab5\\Program.cs",
-              "ToolTip": "C:\\Users\\utssa\\source\\repos\\Lab5\\Lab5\\Program.cs",
-              "RelativeToolTip": "Lab5\\Program.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAvwDYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:29:22.4Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Lab5\\appsettings.Development.json",
+              "ToolTip": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\appsettings.Development.json",
+              "RelativeToolTip": "Lab5\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T18:57:52.125Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5\\Program.cs",
+              "ToolTip": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\Program.cs",
+              "RelativeToolTip": "Lab5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:40:02.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Lab5\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\.NET\\aaaaaa2222222222\\Lab5\\Lab5\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Lab5\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-06T18:37:55.539Z"
             }
           ]
         }
